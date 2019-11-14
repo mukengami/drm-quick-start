@@ -192,4 +192,4 @@ To keep the sample code simple and straightforward, various omissions and simpli
 * In a high-security production scenario, it is not desirable for the authorization service to have access to content keys. Instead, only the Axinom key server and Axinom license server should possess the content keys, with the authorization service embedding them into the license token using an encrypted key container. The relevant interactions are currently not demonstrated by this sample project.
 * Content owners may require you to use different keys for different tracks and quality levels, though this is usually only required when working with very high value content (e.g. Ultra-HD or 4K video). Ensure that your content production workflow is capable of this. 
 
-[Contact Axinom](mailto:info@axinom.com) for detailed support in setting up your production deployment.
+[Contact Axinom](mailto:mukengami.mulife@gmail.com) for detailed support in setting up your production deployment.
